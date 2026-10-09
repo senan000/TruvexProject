@@ -212,8 +212,3 @@ Dynamic text (engine details, evidence, AI summary) is stored in the database as
 - The Trust-Decay trend is a simplified illustration, not a historical time series.
 - Scoring weights are heuristic and should be tuned for real-world use.
 
----
-
-## 📄 License
-
-Add your license here (e.g., MIT).
